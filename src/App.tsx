@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="bg-slate-950 flex flex-col justify-center items-center h-screen gap-4">
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+      <h1 className="text-9xl font-bold text-slate-50">Hello world!</h1>
     </div>
   )
 }
